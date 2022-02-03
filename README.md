@@ -6,6 +6,6 @@ Html
 CSS
 JS
 # Deployed Site
-
+https://sdesire.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/
 # Deployed Site View
 ![weather](https://user-images.githubusercontent.com/88795800/152434316-1f76566b-79e2-484c-af5b-b78dc03797f7.png)
